@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.rodeapps.rapidonkey",
-    "sha256_cert_fingerprints":["1DB:37:E1:5D:6D:70:39:96:04:91:A5:41:65:6E:5E:A4:63:75:C2:CD:B6:9E:CE:87:33:31:1D:43:C8:61:E7:D3"]
+    "sha256_cert_fingerprints": ["1DB:37:E1:5D:6D:70:39:96:04:91:A5:41:65:6E:5E:A4:63:75:C2:CD:B6:9E:CE:87:33:31:1D:43:C8:61:E7:D3"]
   }
 }]

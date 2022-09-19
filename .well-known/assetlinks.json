@@ -1,9 +1,18 @@
 [{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rodeapps.rapidonkey",
+    "sha256_cert_fingerprints":
+    ["36:8C:A5:5E:ED:BF:C1:75:0B:A4:78:91:01:0B:E7:F5:E1:F9:68:7E:67:B5:21:E4:57:CF:CB:08:E2:48:2A:48"]
+  }
+  },
+  {
     "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" :{
-        "namespace":"android_app",
-        "package_name": "com.rodeapps.rapidonkey",
-        "sha256_cert_fingerprints":
-        ["36:8C:A5:5E:ED:BF:C1:75:0B:A4:78:91:01:0B:E7:F5:E1:F9:68:7E:67:B5:21:E4:57:CF:CB:08:E2:48:2A:48"]
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rodeapps.rapidonkey.dev",
+      "sha256_cert_fingerprints":
+      ["36:8C:A5:5E:ED:BF:C1:75:0B:A4:78:91:01:0B:E7:F5:E1:F9:68:7E:67:B5:21:E4:57:CF:CB:08:E2:48:2A:48"]
     }
-}]
+  }]
